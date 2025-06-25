@@ -1,2 +1,7 @@
 This file is having the Price of house
 this is the next change in the file
+
+
+Payment option
+  Send money
+  REcieve Money
